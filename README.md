@@ -1,7 +1,7 @@
 #
 # West_Nile_Virus_Prediction
 **Results**:
-Please check out the jupyter notebook of the project [here](https://github.com/yanxiali/West_Nile_Virus_Prediction/blob/master/WNV.ipynb). If you experience loading problems (as it is a big file), please take a look of a markdown copy of the project [here]()
+Please check out the jupyter notebook of the project [here](https://github.com/yanxiali/West_Nile_Virus_Prediction/blob/master/WNV.ipynb). If you experience loading problems (as it is a big file), please take a look of a markdown copy of the project [here]() or a public presentation of the results [here](https://github.com/yanxiali/West_Nile_Virus_Prediction/blob/master/WNV_presentation.pdf)
 
 **Description**:
 West Nile virus (wnv) is most commonly spread to humans through infected mosquitos. ~20% of people who become infected with wnv develop symptoms ranging from a persistent fever, to serious neurological illness that can result in death.
